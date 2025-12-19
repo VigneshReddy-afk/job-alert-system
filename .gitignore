@@ -1,0 +1,16 @@
+# Maven
+target/
+
+# Logs
+*.log
+
+# IDE
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+
+# Secrets
+application.properties
